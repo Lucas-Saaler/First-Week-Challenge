@@ -14,7 +14,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-Using the website is simple: it is one page, and there is a navigation bar at the top to jump to any specific section.
+Using the website is simple: it is one page, and there is a navigation bar at the top to jump to any specific section. You can find the website here: https://lucas-saaler.github.io/Horisen-Refactoring-Assignment/
 
 ![Website Preview](assets/images/Website-Preview.png)
 
